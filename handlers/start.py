@@ -11,7 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
-Saya adalah bot music voice call group untuk groupchat khusus yang sudah diberi izin oleh boi.
+Saya adalah bot music voice call group untuk groupchat khusus yang sudah diberi izin oleh [boi](https://t.me/boiii999).
 
 Berikut kontak owner dan jangan lupa join ke groupchatnya ya xixixi.""",
         reply_markup=InlineKeyboardMarkup(
