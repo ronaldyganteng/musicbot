@@ -11,9 +11,9 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
-Saya adalah bot music voice call group, only for @hunterspmc, @initemanonline, & @xastroworldx.
+Saya adalah bot music voice call group untuk groupchat khusus yang sudah diberi izin oleh boi.
 
-Use the buttons below to know more about me.""",
+Berikut kontak owner dan jangan lupa join ke groupchatnya ya xixixi.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
