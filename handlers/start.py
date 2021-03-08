@@ -18,7 +18,7 @@ Berikut kontak owner dan jangan lupa join ke groupchatnya ya xixixi.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ OWNER BOT", url="https://t.me/boi999"
+                        "⚒ OWNER BOT", url="https://t.me/boiii999"
                     )
                 ],
                 [
