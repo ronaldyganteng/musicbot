@@ -11,9 +11,9 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
-Saya adalah bot music voice call group untuk groupchat khusus yang sudah diberi izin oleh [boi](https://t.me/boiii999).
-
-Berikut kontak owner dan jangan lupa join ke groupchatnya ya xixixi.""",
+Saya adalah bot music voice call group!
+Dirancang khusus untuk groupchat yang sudah diberi izin oleh [Mas Boi](https://t.me/boiii999).
+Berikut dibawah ini adalah kontak owner bot.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -23,10 +23,10 @@ Berikut kontak owner dan jangan lupa join ke groupchatnya ya xixixi.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "HUNTER'S", url="https://t.me/hunterspmc"
+                        "JOIN SINI", url="https://t.me/hunterspmc"
                     ),
                     InlineKeyboardButton(
-                        "TEMAN ONLINE", url="https://t.me/initemanonline"
+                        "JOIN SINI", url="https://t.me/initemanonline"
                     )
                 ]
             ]
