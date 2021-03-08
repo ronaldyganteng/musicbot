@@ -40,7 +40,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/boiss69/CallsMusicHeroku/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/boiss69/CallsMusic/)
 
 
 ## Credits
