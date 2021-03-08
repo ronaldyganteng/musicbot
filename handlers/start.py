@@ -9,24 +9,24 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
+        f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
-I am SU Music Player, an open-source bot that lets you play music in your Telegram groups.
+Saya adalah bot music voice call group, only for @hunterspmc, @initemanonline, & @xastroworldx.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/SuMusicPlayer"
+                        "⚒ OWNER BOT", url="https://t.me/boi999"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/su_Chats"
+                        "HUNTER'S", url="https://t.me/hunterspmc"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/su_Bots"
+                        "TEMAN ONLINE", url="https://t.me/initemanonline"
                     )
                 ]
             ]
@@ -41,15 +41,15 @@ Use the buttons below to know more about me.""",
 )
 async def start(client: Client, message: Message):
     await message.reply_text(
-        "💁🏻‍♂️ Do you want to search for a YouTube video?",
+        "Hai, mau nyari lagu apa? coba ketik.",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✅ Yes", switch_inline_query_current_chat=""
+                        "✅ Ya", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "No ❌", callback_data="close"
+                        "Tidak ❌", callback_data="close"
                     )
                 ]
             ]
