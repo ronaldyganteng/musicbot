@@ -12,23 +12,10 @@ async def start_(client: Client, message: Message):
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
 Saya adalah bot music voice call group!
-Dirancang khusus untuk groupchat yang sudah diberi izin oleh Boi.
-Berikut dibawah ini adalah kontak owner bot.""",
+Dirancang khusus untuk groupchat yang sudah diberi izin oleh owner bot ini.
+Berikut dibawah ini adalah cara memakai bot music ini.""",
         reply_markup=InlineKeyboardMarkup(
             [
-                [
-                    InlineKeyboardButton(
-                        "⚒ OWNER BOT", url="https://t.me/boiii999"
-                    )
-                ],
-                [
-                    InlineKeyboardButton(
-                        "JOIN SINI", url="https://t.me/hunterspmc"
-                    ),
-                    InlineKeyboardButton(
-                        "JOIN SINI", url="https://t.me/initemanonline"
-                    )
-                ],
                 [
                     InlineKeyboardButton(
                         "CARA MEMAKAINYA", url="https://telegra.ph/Cara-Menggunakan-BoI-Music-Bot-boimusic-bot-03-09"
