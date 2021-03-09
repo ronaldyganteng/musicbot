@@ -28,6 +28,11 @@ Berikut dibawah ini adalah kontak owner bot.""",
                     InlineKeyboardButton(
                         "JOIN SINI", url="https://t.me/initemanonline"
                     )
+                ],
+                [
+                    InlineKeyboardButton(
+                        "CARA MEMAKAINYA", url="https://telegra.ph/Cara-Menggunakan-BoI-Music-Bot-boimusic-bot-03-09"
+                    )
                 ]
             ]
         )
