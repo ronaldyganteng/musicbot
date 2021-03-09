@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 
 Saya adalah bot music voice call group!
-Dirancang khusus untuk groupchat yang sudah diberi izin oleh [Mas Boi](https://t.me/boiii999).
+Dirancang khusus untuk groupchat yang sudah diberi izin oleh Boi.
 Berikut dibawah ini adalah kontak owner bot.""",
         reply_markup=InlineKeyboardMarkup(
             [
