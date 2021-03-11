@@ -2,6 +2,7 @@
 
 ## Note
 
+Repository ini milik SU Music Player.
 Neither this, or PyTgCalls are fully stable.
 
 ## Requirements
