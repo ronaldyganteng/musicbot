@@ -2,7 +2,7 @@
 
 ## Note
 
-Repository ini milik [SU Music Player.](https://github.com/suprojects) dan klik disini untuk [Original Repository.](https://github.com/suprojects/CallsMusic)
+Repository ini milik [SU Music Player](https://github.com/suprojects) dan klik disini untuk [Original Repository.](https://github.com/suprojects/CallsMusic)
 
 ## Disclaimer
 
@@ -43,7 +43,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    docker run --env-file .env musicplayer
    ```
 
-### Heroku
+### Klik disini untuk deploy di Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/boiss69/CallsMusicHeroku/)
 
 
