@@ -1,4 +1,4 @@
-# SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
+# SU Music Player — MEMAINKAN LAGU DARI YOUTUBE DI VOICE CALL GROUP TELEGRAM
 
 ## Note
 
