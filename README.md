@@ -6,7 +6,7 @@ Repository ini milik [SU Music Player](https://github.com/suprojects) dan klik d
 
 ## Disclaimer
 
-Saya disini hanya membantu menerjemahkan repo ini ke dalam bahasa Indoenesia.
+Saya disini hanya membantu menerjemahkan bot ini ke dalam bahasa Indoenesia.
 
 ## Requirements
 
