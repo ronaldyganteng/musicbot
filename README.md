@@ -1,8 +1,12 @@
-# SU Music Player — VCG MUSIC BOT
+# SU Music Player || VCG MUSIC BOT
 
 ## Note
 
-Repository ini milik [SU Music Player.](https://github.com/suprojects) dan klik disini untuk[Original Repository.](https://github.com/suprojects/CallsMusic)
+Repository ini milik [SU Music Player.](https://github.com/suprojects) dan klik disini untuk [Original Repository.](https://github.com/suprojects/CallsMusic)
+
+## Disclaimer
+
+Saya disini hanya membantu menerjemahkan repo ini ke dalam bahasa Indoenesia.
 
 ## Requirements
 
