@@ -2,8 +2,7 @@
 
 ## Note
 
-Repository ini milik [SU Music Player.](https://github.com/suprojects)
-Cek repository asli [disini](https://github.com/suprojects/CallsMusic)
+Repository ini milik [SU Music Player.](https://github.com/suprojects) dan klik disini untuk[Original Repository.](https://github.com/suprojects/CallsMusic)
 
 ## Requirements
 
