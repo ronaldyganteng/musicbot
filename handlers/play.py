@@ -60,7 +60,7 @@ async def play(client: Client, message_: Message):
     try:
         is_playing = tgcalls.pytgcalls.is_playing(message_.chat.id)
     except:
-        is_playing = False
+        is_playing = True
 
     if is_playing:
         position = await sira.add(message_.chat.id, file_path)
