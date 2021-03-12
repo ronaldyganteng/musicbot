@@ -24,7 +24,7 @@ Berikut dibawah ini adalah cara pakainya.""",
             [
                 [
                     InlineKeyboardButton(
-                        "CARA MENGGUNAKANNYA", url="https://telegra.ph/Cara-Menggunakan-BoI-Music-Bot-boimusic-bot-03-09"
+                        "CARA MENGGUNAKANNYA", url="https://telegra.ph/Cara-menggunakan-Bot-Music-03-12"
                     )
                 ]
             ]
