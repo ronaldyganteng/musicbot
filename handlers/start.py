@@ -12,13 +12,12 @@ async def start_(client: Client, message: Message):
         f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
 Saya adalah bot music voice call group!
 
-Dirancang khusus untuk menemanimu bergalau ria, berdendang, hingga berdangdut di voice call groups.
+Dirancang khusus untuk menemanimu bergalau ria, berdendang, hingga berdangdut di voice call group.
 Bot ini sering patah patah dikit kalau di vcg, jadi gausa protes.
 
 Cara pakai bot ini ya tinggal masukin aja ke grupmu, jangan lupa masukin userbot asistennya juga.
 Tapi izin dulu lah ajg ke owner bot ini biar berkah sekalian diajarin cara pakenya :))
 
-Translate language to Indonesia by: @boiii999.
 Berikut dibawah ini adalah cara pakainya.""",
         reply_markup=InlineKeyboardMarkup(
             [
