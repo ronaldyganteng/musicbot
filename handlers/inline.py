@@ -16,7 +16,7 @@ async def search(client: Client, query: InlineQuery):
         await client.answer_inline_query(
             query.id,
             results=answers,
-            switch_pm_text="Ketik lagu yang ingin anda putar...",
+            switch_pm_text="Ketik Ajah Lagu Apa Yang Kamu Mau Putar Dan Didengarkan!",
             switch_pm_parameter="help",
             cache_time=0
         )
