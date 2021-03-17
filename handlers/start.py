@@ -9,7 +9,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
-        f"""<b>👋🏻 Halo, {message.from_user.first_name}!</b>
+        f"""<b>👋🏻 Haii Sayangg!, {message.from_user.first_name}!</b>
 Saya adalah bot music voice call group!
 
 Dirancang khusus untuk menemanimu bergalau ria, berdendang, hingga berdangdut di voice call group.
